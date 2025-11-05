@@ -1,0 +1,24 @@
+[
+  {
+    "id": "f8e3f892",
+    "title": "Drink Water",
+    "description": "3 times per day",
+    "tags": [
+      "morning",
+      "health"
+    ],
+    "created": "2025-11-05T18:55:57.042727Z",
+    "completed": false
+  },
+  {
+    "id": "2d8dc0ea",
+    "title": "Meditate",
+    "description": "10 minutes",
+    "tags": [
+      "evening",
+      "mental"
+    ],
+    "created": "2025-11-05T18:55:57.079149Z",
+    "completed": false
+  }
+]
