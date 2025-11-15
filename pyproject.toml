@@ -7,5 +7,4 @@ requires-python = ">=3.13"
 dependencies = []
 
 [tool.uv]
-package = "tasks3"
-entry-point = "tasks3.main"
+package = true
