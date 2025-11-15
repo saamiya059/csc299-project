@@ -1,1 +1,13 @@
-[]
+[
+  {
+    "id": "1f9ca06b",
+    "title": "Drink Water",
+    "description": "3 times per day",
+    "tags": [
+      "morning",
+      "health"
+    ],
+    "created": "2025-11-15T05:13:54.062323Z",
+    "completed": false
+  }
+]

@@ -1,5 +1,6 @@
 import argparse
-from tasks import HabitManager
+from tasks3.tasks import HabitManager
+
 
 manager = HabitManager()
 

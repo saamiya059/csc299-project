@@ -1,10 +1,17 @@
 [project]
 name = "tasks3"
 version = "0.1.0"
-description = "Add your description here"
+description = "Task manager CLI"
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = []
+
+[project.scripts]
+tasks3 = "tasks3.cli:main"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
 
 [tool.uv]
 package = true
