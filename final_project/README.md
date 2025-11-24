@@ -1,3 +1,4 @@
+README.md
 AI-Assisted Personal Knowledge and Task Manager
 This project is my final software engineering assignment for CSC299. It is an AI-assisted Personal Knowledge Management System with tasks, notes, conversation memory, and some lightweight AI-powered summaries. The whole project was developed with ChatGPT as my main assistant, acting like a guide while I wrote, tested, and debugged the software.
 The goal of the software is to give the user a simple command-line interface where they can add tasks, list them, add notes, manage them, summarize information, and keep track of small pieces of conversation context. Everything is organized into separate modules so each part stays clean and easy to test.
